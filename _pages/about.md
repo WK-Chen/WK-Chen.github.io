@@ -7,21 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a [PhD student / Assistant Professor] in the [Department of XXX] at
-[University Name], where I am fortunate to be advised by [Prof. Advisor Name].
-My research lies at the intersection of [Field A] and [Field B].
+I am Wenkai Chen, a PhD student in Artificial Intelligence at the Hong Kong University of Science and Technology (Guangzhou), where I am advised by Prof. [Chengwei Qin](https://qcwthu.github.io/). My doctoral studies are supported by the HKUST(GZ)–PAITH (PhD talent program in AI Through Huawei) Co-Supervision Scheme.
 
-## Research Interests
+Before starting my PhD, I earned my Master's degree in Artificial Intelligence from Utrecht University under the supervision of Prof. Albert Gatt. During this time, I also spent a year as a visiting student at EPFL, supervised by Prof. Antoine Bosselut. Piror to that, I received my Bachelor's degree from the School of Computer Science at Beijing University of Posts and Telecommunications (BUPT).
 
-My work focuses on [one-sentence high-level description of your research].
-Specifically, I am interested in:
+Throughout my academic journey, I have had the privilege of collaborating with outstanding researchers across several leading institutions, and I greatly value the insights gained from these collaborations.
 
-- **[Topic 1]** — [a short clause on what and why]
-- **[Topic 2]** — [a short clause on what and why]
-- **[Topic 3]** — [a short clause on what and why]
-
-Before joining [Current University], I received my [B.S./M.S.] in [Major]
-from [Previous University], where I worked on [previous topic] with [Prof. X].
-
-I am currently [looking for PhD positions / open to collaborations /
-on the job market]. Feel free to reach out at [your@email.com]!
+My current research is driven by the goal of building more efficient and capable LLMs. Specifically, my interests encompass:
+- LLM pre-training
+- advanced Transformer architectures
+- long context reasoning
