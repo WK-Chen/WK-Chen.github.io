@@ -16,5 +16,6 @@ My current research is driven by the goal of building more efficient and capable
 - Long-Context Reasoning
 
 ## News
+Aug 2026: One paper is accepted by EMNLP 2026. 
 
 ## Selected Publications
