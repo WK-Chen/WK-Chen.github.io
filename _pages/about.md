@@ -19,3 +19,9 @@ My current research is driven by the goal of building more efficient and capable
 Aug 2026: One paper is accepted by EMNLP 2026. Thanks to my co-authors.
 
 ## Selected Publications
+{% assign selected_publications = site.publications | where: "selected", true | sort: "date" | reverse %}
+{% for post in selected_publications %}
+  {% include archive-single.html %}
+{% endfor %}
+
+[View all publications]({{ '/publications/' | relative_url }})
